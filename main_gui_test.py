@@ -4,7 +4,7 @@ import threading
 import os
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
-from datetime import datetime, timedelta
+from datetime import datetime
 import numpy as np
 import time
 import pandas as pd
