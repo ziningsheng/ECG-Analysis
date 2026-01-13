@@ -7,8 +7,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from datetime import datetime, timedelta
 import numpy as np
 import time
-import pandas as pd  # 新增：用于读取Excel
-import matplotlib.dates as mdates  # 新增：时间轴格式化
+import pandas as pd
+import matplotlib.dates as mdates
 
 # Import custom modules
 from data_read import (
