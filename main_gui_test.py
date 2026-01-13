@@ -10,7 +10,7 @@ import time
 import pandas as pd
 import matplotlib.dates as mdates
 
-# Import custom modules
+# Import custom modules#
 from data_read import (
     get_ecg_file_list, read_single_file_lead_data,
     get_hr_json_file_list, read_hr_json_file
